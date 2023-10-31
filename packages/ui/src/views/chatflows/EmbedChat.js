@@ -124,7 +124,7 @@ const chatwindowConfig = (isReact = false) => {
                         avatarSrc: "https://raw.githubusercontent.com/zahidkhawaja/langchain-chat-nextjs/main/public/usericon.png",
                     },
                     textInput: {
-                        placeholder: "Type your question",
+                        placeholder: "Skriv ditt spørsmål her",
                         backgroundColor: "#ffffff",
                         textColor: "#303235",
                         sendButtonColor: "#3B81F6",
@@ -150,7 +150,7 @@ const chatwindowConfig = (isReact = false) => {
                     avatarSrc: "https://raw.githubusercontent.com/zahidkhawaja/langchain-chat-nextjs/main/public/usericon.png",
                 },
                 textInput: {
-                    placeholder: "Type your question",
+                    placeholder: "Skriv ditt spørsmål her",
                     backgroundColor: "#ffffff",
                     textColor: "#303235",
                     sendButtonColor: "#3B81F6",
